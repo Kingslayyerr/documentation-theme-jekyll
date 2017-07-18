@@ -10,6 +10,7 @@ summary: These brief instructions will help you get started quickly with the the
 ## Build the Theme
 
 Follow these instructions to build the theme.
+These are test lines to see if the changes reflect in the theme later on!
 
 ### 1. Download the theme
 
@@ -21,6 +22,8 @@ If you've never installed or run a Jekyll site locally on your computer, follow 
 
 * [Install Jekyll on Mac][mydoc_install_jekyll_on_mac]
 * [Install Jekyll on Windows][mydoc_install_jekyll_on_windows]
+
+I already have jekyll so I don't need to follow this step!
 
 ### 3. Install Bundler
 
